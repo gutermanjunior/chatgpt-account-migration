@@ -7,7 +7,7 @@
 **Versão:** 1.0 · **Data de referência:** 2026-10-06 · **Idioma:** pt-BR
 
 > [!NOTE]
-> Esta é a versão otimizada para leitura no GitHub. A fonte editorial destinada à geração de PDF com Pandoc/LaTeX deve permanecer separada em `source/manual-pandoc.md`.
+> Esta é a versão otimizada para leitura no GitHub. A fonte editorial destinada à geração de PDF com Pandoc/LaTeX deve permanecer separada em `source/Manual_Migracao_Manual_ChatGPT_A_para_B_v1.0.md`.
 
 > [!WARNING]
 > **Template público ≠ workspace de migração.** Os artefatos preenchidos durante a execução deste manual podem conter dados pessoais, profissionais, acadêmicos, jurídicos, financeiros ou de terceiros. Mantenha o workspace real fora do repositório público.
