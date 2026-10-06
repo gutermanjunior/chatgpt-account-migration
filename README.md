@@ -100,13 +100,27 @@ They provide structured artifacts for:
 - legacy GPT preservation.
 
 > [!WARNING]
-> Filled templates may contain personal, professional, academic, legal,
+> The templates in this repository contain no user-specific data. However,
+> completed copies may contain personal, professional, academic, legal,
 > financial, or third-party information. Copy the templates to a private
-> workspace before filling them in and do not commit completed migration
+> workspace before filling them in, and do not commit completed migration
 > artifacts to this public repository.
 
 The conceptual authority remains the
 [full migration manual](MANUAL.md).
+
+---
+
+## 🔎 Provenance
+
+The public template set was extracted and validated against the canonical
+v1.0 migration manual.
+
+The extraction report documents source verification, fidelity checks,
+privacy review, known manual inconsistencies, and differences from an
+earlier non-canonical extraction:
+
+[→ Template Extraction Report v1.0](docs/provenance/TEMPLATE_EXTRACTION_REPORT_v1.0.md)
 
 ---
 
