@@ -1,0 +1,58 @@
+# ============================================================
+# Private/local migration data
+# Never publish real migration workspaces
+# ============================================================
+
+/private/
+/workspace/
+/migration-data/
+/snapshot/
+/private-artifacts/
+
+# ============================================================
+# Filled migration artifacts at repository root
+# Public examples/templates should live under templates/
+# ============================================================
+
+/00_MIGRATION_README.md
+/01_ACCOUNT_PROFILE.md
+/02_CUSTOM_INSTRUCTIONS.md
+/02_CUSTOM_INSTRUCTIONS_RAW.md
+/03_MEMORY_PORTABLE.md
+/04_NEGATIVE_KNOWLEDGE.md
+/05_INTERACTION_MODEL.md
+/06_PROJECT_INDEX.md
+/07_RELATIONSHIP_MAP.md
+/08_GLOBAL_DECISIONS.md
+/09_INFERENCE_CATALOG.md
+/10_CONVERSATION_INDEX.md
+/11_FILES_INDEX.md
+/12_DESTINATION_BOOTSTRAP.md
+/13_VALIDATION_SUITE.md
+/14_MIGRATION_MANIFEST.md
+/15_GAPS_AND_CONFLICTS.md
+/16_DO_NOT_MIGRATE.md
+
+/PROJECT_STATE_*.md
+/MIGRATION_CHECKPOINT_*.md
+/MIGRATION_FINDINGS.md
+/ARTIFACT_GRAPH.md
+
+# ============================================================
+# Credentials / secrets
+# ============================================================
+
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+
+# ============================================================
+# OS-generated files
+# ============================================================
+
+Thumbs.db
+Desktop.ini
+.DS_Store
