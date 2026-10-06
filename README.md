@@ -80,3 +80,14 @@ Project reconstruction
 Conversation migration
       ↓
 Validation
+```
+
+---
+
+## License
+
+This project is licensed under the
+[Creative Commons Attribution 4.0 International License](LICENSE).
+
+You may share and adapt the material, including for commercial purposes,
+provided that appropriate attribution is given and changes are indicated.
