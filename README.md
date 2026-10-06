@@ -84,6 +84,32 @@ Validation
 
 ---
 
+## 🧩 Templates
+
+Reusable Markdown templates derived from the v1.0 migration manual are
+available in the [`templates/`](templates/) directory.
+
+They provide structured artifacts for:
+
+- account profile and portable memory;
+- project, conversation, and file inventories;
+- project state and migration capsules;
+- negative knowledge and cross-project relationships;
+- migration manifests and checkpoints;
+- validation and Golden Set testing;
+- legacy GPT preservation.
+
+> [!WARNING]
+> Filled templates may contain personal, professional, academic, legal,
+> financial, or third-party information. Copy the templates to a private
+> workspace before filling them in and do not commit completed migration
+> artifacts to this public repository.
+
+The conceptual authority remains the
+[full migration manual](MANUAL.md).
+
+---
+
 ## License
 
 This project is licensed under the
