@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+
+message: >-
+  If you use this manual or its migration templates, please cite
+  the preferred citation below.
+
+title: "ChatGPT Account Migration Manual"
+
+authors:
+  - family-names: "R A Junior"
+    given-names: "Guterman"
+
+version: "1.0.0"
+date-released: 2026-10-06
+
+license: "CC-BY-4.0"
+
+url: "https://github.com/gutermanjunior/chatgpt-account-migration"
+
+keywords:
+  - "ChatGPT"
+  - "account migration"
+  - "knowledge management"
+  - "data portability"
+  - "digital preservation"
+  - "large language models"
+  - "prompt engineering"
+
+abstract: >-
+  A high-fidelity methodology and reusable template set for manually
+  migrating operational context, projects, conversations, files,
+  preferences, decisions, negative knowledge, and validation state
+  between ChatGPT accounts.
+
+preferred-citation:
+  type: manual
+  authors:
+    - family-names: "<SEU SOBRENOME>"
+      given-names: "<SEUS PRENOMES>"
+  title: "Manual de Migração Manual de Alta Fidelidade entre Contas ChatGPT"
+  version: "1.0"
+  year: 2026
+  url: "https://github.com/gutermanjunior/chatgpt-account-migration"
